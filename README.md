@@ -13,10 +13,11 @@ This project demonstrates foundational GIS workflows using QGIS. The assignment 
 ---
 
 ## Tools and Technologies
-- QGIS  
+- QGIS Desktop  
+- Processing Modeler (workflow automation)  
+- GDAL / PROJ (coordinate transformations and data processing)  
+- Vector & Raster Data Processing  
 - GeoPackage, Shapefile, CSV  
-- Processing Modeler (QGIS)  
-
 ---
 
 ## What I Did
